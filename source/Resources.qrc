@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/width.png</file>
+        <file>images/undo.png</file>
+        <file>images/settings.png</file>
+        <file>images/save.png</file>
+        <file>images/redo.png</file>
+        <file>images/rect.png</file>
+        <file>images/palette.png</file>
+        <file>images/line.png</file>
+        <file>images/info.png</file>
+        <file>images/icons8-save-48.png</file>
+        <file>images/icons8-rounded-square-64.png</file>
+        <file>images/icons8-rectangle-96.png</file>
+        <file>images/icons8-pen-64.png</file>
+        <file>images/icons8-pen-24.png</file>
+        <file>images/icons8-line-48.png</file>
+        <file>images/icons8-fill-color-52.png</file>
+        <file>images/icons8-exit-64.png</file>
+        <file>images/icons8-erase-48.png</file>
+        <file>images/icons8-cosmetic-brush-52.png</file>
+        <file>images/icons8-cosmetic-brush-24.png</file>
+        <file>images/icons8-color-mode-48.png</file>
+        <file>images/icons8-cls-50.png</file>
+        <file>images/icons8-circle-48.png</file>
+        <file>images/icons8-add-file-64.png</file>
+        <file>images/icon.png</file>
+        <file>images/clear.png</file>
+        <file>images/circle.png</file>
+        <file>images/brush.png</file>
+        <file>PicPax.qss</file>
+        <file>images/icons8-rounded-rectangle-stroked-24.png</file>
+        <file>images/icons8-line-24.png</file>
+        <file>images/icons8-fill-color-26.png</file>
+        <file>images/icons8-eraser-24.png</file>
+        <file>images/icons8-cosmetic-brush-26.png</file>
+        <file>images/icons8-circle-24.png</file>
+        <file>images/icons8-image-32.png</file>
+        <file>images/icons8-undo-64.png</file>
+        <file>images/icons8-redo-64.png</file>
+        <file>images/icons8-single-page-mode-light-48.png</file>
+        <file>images/icons8-single-page-mode-48.png</file>
+    </qresource>
+</RCC>
